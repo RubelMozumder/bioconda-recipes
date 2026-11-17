@@ -35,7 +35,7 @@ requirements:
     - tzlocal
     # gwyddionpy[converter] on PyPI: the reader plus the gwyconvert binary.
     - gwyddionpy
-    - gwyddionpy-converter
+    - gwyconvert
 
 test:
   requires:
